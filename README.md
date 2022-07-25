@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamehn
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Python for Machine Learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me @mamman_lamela on twitter
 
 <!---
